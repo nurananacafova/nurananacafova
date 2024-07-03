@@ -3,11 +3,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://az.linkedin.com/in/nuran%C9%99n%C9%99c%C9%99fova2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aa" height="30" width="40" /></a>
+<a href="https://az.linkedin.com/in/nuran%C9%99n%C9%99c%C9%99fova2001" target="blank">
+<!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aa" height="30" width="40" /> -->
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<!--
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/>
@@ -22,11 +25,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 </p>
+-->
 
-
-
-<!--
-<h3>I use:</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img alt="Spring boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -35,8 +35,14 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+  <img alt="dotnet" src="https://img.shields.io/badge/-.NET%206.0-blueviolet?style=flat-logo&logo=dotnet&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-logo" />
+  <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-logo&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
 
+</p>
+<!--
 <h3>Social Media</h3>
 <a href="https://az.linkedin.com/in/nuran%C9%99n%C9%99c%C9%99fova2001">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
