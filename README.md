@@ -39,7 +39,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
-  <img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
+  <img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
 
 </p>
 <!--
