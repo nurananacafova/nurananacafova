@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://az.linkedin.com/in/nuran%C9%99n%C9%99c%C9%99fova2001" target="blank">
 <!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aa" height="30" width="40" /> -->
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="40"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </p>
 
@@ -28,18 +28,18 @@
 -->
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img alt="Spring boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/-.NET%206.0-blueviolet?style=flat-logo&logo=dotnet&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=mssql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-logo" />
-  <img alt="Postman" src="https://img.shields.io/static/v1?style=flat-logo&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
+  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
+  <img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=" />
 
 </p>
 <!--
