@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://az.linkedin.com/in/nuran%C9%99n%C9%99c%C9%99fova2001" target="blank">
+<a href="https://az.linkedin.com/in/nurananajafova" target="blank">
 <!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aa" height="30" width="40" /> -->
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
